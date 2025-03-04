@@ -1,4 +1,4 @@
-# **Pokédex 🌟🔍  
+# Pokédex 🌟🔍  
 
 A **React-based Pokédex** that allows users to search and explore different Pokémon, view their stats, abilities, and types in an interactive UI. This project uses **PokéAPI** to fetch real-time Pokémon data and dynamically display it in beautifully designed cards.  
 
@@ -36,7 +36,7 @@ A **React-based Pokédex** that allows users to search and explore different Pok
 🔹 Improve animations & UI responsiveness  
 🔹 Implement dark/light mode  
 
-#Live Demo 🚀
+## **Live Demo 🚀**
 Check out the live demo of the PokeDex app here: (https://pokedex-yash.netlify.app)
 ---  
 Made with ❤️ by [Yash Palav]
