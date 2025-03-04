@@ -11,33 +11,16 @@ A **React-based Pokédex** that allows users to search and explore different Pok
 ## **Tech Stack**  
 - **React.js** – Frontend framework  
 - **CSS/Tailwind CSS** – Styling  
-- **PokéAPI** – Fetching Pokémon data  
-- **Monaco Editor (if applicable)** – Code-related enhancements  
-
-## **Installation & Usage**  
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/pokedex.git
-   cd pokedex
-   ```
-2. Install dependencies:  
-   ```bash
-   npm install
-   ```
-3. Start the development server:  
-   ```bash
-   npm run dev
-   ```
-4. Open your browser and visit `http://localhost:5173/` (or the provided URL).  
-
+- **PokéAPI** – Fetching Pokémon data
+  
 ## **Future Enhancements** 🚀  
 🔹 Add Pokémon evolution chains  
 🔹 Improve animations & UI responsiveness  
 🔹 Implement dark/light mode  
 
-## **Live Demo 🚀**
-Check out the live demo of the PokeDex app here: (https://pokedex-yash.netlify.app)
+# Live Demo 🚀
+
+Check out the live demo of the **Weather App** app here: (https://pokedex-yash.netlify.app)
 ---  
 Made with ❤️ by [Yash Palav]
 
